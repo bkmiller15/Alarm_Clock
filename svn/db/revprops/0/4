@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 11
+thekeymaker
+K 8
+svn:date
+V 27
+2011-11-16T02:42:06.550715Z
+K 7
+svn:log
+V 127
+Digital pot and LCD work pretty good.  Also got A/D back up.  Current build displays A/D to screen with different light levels.
+END
